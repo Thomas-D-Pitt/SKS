@@ -1,0 +1,6 @@
+cd C:\Users\tad02\Desktop\Soundboard in python
+pyinstaller -F -w -n "Swiftkey Soundboard" -i Data\icon.ico --add-data "Data*;./Data" SoundBoard.py
+ 
+D:
+cd D:\Programming\Soundboard in python
+pyinstaller -w -n "Swiftkey Soundboard" -i Data\icon.ico --add-data "Data*;./Data" SoundBoard.py
